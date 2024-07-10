@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Резюме </h1>
-    <img src="C:\Users\Miighty Moo\Desktop\Зображення1.jpg"alt="моє фото" width="400" height="500">
+    <p><img src="C:\Users\Miighty Moo\Desktop\Зображення1.jpg"alt="моє фото" width="400" height="500"></p>
     <h2>Загальна та контактна інформація</h2>
     <p> <strong>Ім’я:</strong> Майстрова Марія Олександрівна <br>
         <strong>Вік:</strong> 28 років <br>
