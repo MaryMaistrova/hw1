@@ -1,10 +1,8 @@
 body {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-image: url(images/wp.png);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background-color: transparent;
   background-size: cover;
   background-repeat: no-repeat;
-  font-size: 22px;
 }
 
 ul {
@@ -17,11 +15,11 @@ div {
 }
 
 fieldset legend {
-  font-size: 30px
+  font-size: 18px
 }
 
 fieldset {
-  background-color: rgb(181, 229, 248);
+  background-color: rgb(150, 211, 198);
   margin: 10px 10px 10px 10px;
 }
 
@@ -29,7 +27,11 @@ h1 {
   text-align: center;
 }
 
-#last {
-  display: flex;
-  width: min-content
+h2 {
+  text-align: center;
+}
+
+
+.container {
+  align-items: center;
 }
